@@ -1,4 +1,4 @@
-### Hi there 👋
+## `console.log("Hey there 👋");`
 
 <!--
 **LayanJay/LayanJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
