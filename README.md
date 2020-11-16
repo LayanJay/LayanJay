@@ -64,16 +64,7 @@
             height="40" /> </a> 
              <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/visual-studio-code.svg" alt="vs-code"
-            width="40" height="40" /> </a> 
-             <a href="https://www.google.com/chrome/" target="_blank">
-        <img src="https://raw.githubusercontent.com/alrra/browser-logos/6c1384c06c5e1c2a2b636bc3802d9a11e2e6bb54/src/chrome-dev/chrome-dev.svg" alt="vs-code"
-            width="40" height="40" /> </a> 
-            <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"
-            height="40" /> </a>
-            <a href="https://www.microsoft.com/en-lk?rtc=1" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/windows8/windows8-original.svg" alt="linux" width="40"
-            height="40" /> </a>
+            width="40" height="40" /> </a>
             </p>
 <hr>
 
