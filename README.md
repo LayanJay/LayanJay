@@ -39,21 +39,23 @@
 <hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<!-- <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
-            width="40" height="40" /> </a> -->
             <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"
+            src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html5"
             width="40" height="40" /> </a>
             <a href="https://www.w3schools.com/css/" target="_blank"> <img 
-            src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
+            src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css3"
             width="40" height="40" /> </a>
+            <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/bootstrap.png" width="40" height="40" alt='bootstrap'/> </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+            src="https://img.icons8.com/color/48/000000/javascript.png"
             alt="javascript" width="40" height="40" /> </a>
              <a href="https://reactjs.org/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" /></a>
+             <a href="https://www.gatsbyjs.com/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="React" width="40" height="40" /></a>
+             <a href="https://graphql.org/" target="_blank"> <img
+            src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="React" width="40" height="40" /></a>
     <a href="https://firebase.google.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
             <a href="https://www.mongodb.com/" target="_blank"> <img
@@ -61,18 +63,6 @@
             width="40" height="40" /> </a> 
     <a href="https://www.netlify.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"
-            height="40" /> </a> 
-             <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/visual-studio-code.svg" alt="vs-code"
-            width="40" height="40" /> </a> 
-             <a href="https://www.google.com/chrome/" target="_blank">
-        <img src="https://raw.githubusercontent.com/alrra/browser-logos/6c1384c06c5e1c2a2b636bc3802d9a11e2e6bb54/src/chrome-dev/chrome-dev.svg" alt="vs-code"
-            width="40" height="40" /> </a> 
-            <a href="https://www.linux.org/" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40"
-            height="40" /> </a>
-            <a href="https://www.microsoft.com/en-lk?rtc=1" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/windows8/windows8-original.svg" alt="linux" width="40"
             height="40" /> </a>
             </p>
 <hr>
