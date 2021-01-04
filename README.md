@@ -63,16 +63,19 @@
             width="40" height="40" /> </a> 
     <a href="https://www.netlify.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40"
-            height="40" /> </a>
+            height="40" /> </a> 
+             <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/visual-studio-code.svg" alt="vs-code"
+            width="40" height="40" /> </a>
             </p>
 <hr>
 
 <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=LayanJay&show_icons=true&count_private=true&hide=issues&theme=light&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=LayanJay&show_icons=true&count_private=true&hide=issues&theme=dark&include_all_commits=true"
     />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LayanJay&layout=compact&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LayanJay&layout=compact&theme=dark)
 
 <!--
 **LayanJay/LayanJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
