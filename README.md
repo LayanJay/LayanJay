@@ -72,10 +72,10 @@
 
 <img
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=LayanJay&show_icons=true&count_private=true&hide=issues&theme=dark&include_all_commits=true"
+      src="https://github-readme-stats.vercel.app/api?username=LayanJay&show_icons=true&count_private=true&hide=issues&theme=light&include_all_commits=true"
     />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LayanJay&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LayanJay&layout=compact&theme=light)
 
 <!--
 **LayanJay/LayanJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
