@@ -9,9 +9,9 @@
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍🎓 Undergraduate of SLIIT following B.Sc (Hons) in IT specialization in softaware engineering.
+- 👨‍🎓 Undergraduate of SLIIT majoring B.Sc (Hons) in IT specialization in softaware engineering.
 
-- 👨‍💻 I’m currently learning **React**
+- 👨‍💻 I’m currently rocking **React**
 
 - 📫 Reach me: **Layanjayasinghe2@gmail.com**
 <hr>
