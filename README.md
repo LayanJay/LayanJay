@@ -18,10 +18,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
             <a href="https://www.w3.org/html/" target="_blank"> <img
-            src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" alt="html5"
+            src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5"
             width="40" height="40" /> </a>
             <a href="https://www.w3schools.com/css/" target="_blank"> <img 
-            src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" alt="css3"
+            src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3"
             width="40" height="40" /> </a>
             <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"> <img
