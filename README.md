@@ -11,7 +11,7 @@
 
 - 👨‍🎓 Undergraduate of SLIIT majoring B.Sc (Hons) in IT specialization in softaware engineering.
 
-- 👨‍💻 I’m currently rocking **React**
+- 👨‍💻 I’m currently rocking **NextJS**
 
 - 📫 Reach me: **Layanjayasinghe2@gmail.com**
 <hr>
