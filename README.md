@@ -9,8 +9,6 @@
 <hr>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍🎓 Undergraduate of SLIIT majoring B.Sc (Hons) in IT specialization in softaware engineering.
-
 - 👨‍💻 I’m currently rocking **NextJS**
 
 - 📫 Reach me: **Layanjayasinghe2@gmail.com**
